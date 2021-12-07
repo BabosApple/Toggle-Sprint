@@ -1,0 +1,15 @@
+name: ToggleSprint
+main: PlateWheel\ToggleSprint\Main
+author: PlateWheel
+api: 4.0.0
+version: 1.0
+
+commands:
+  sprint:
+    description: "Make you dont need double tap to sprint"
+    permission: "sprint.use"
+
+permissions:
+  sprint.use:
+    description: "sprint dot use uwu"
+    default: op
