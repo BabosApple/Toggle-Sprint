@@ -1,5 +1,6 @@
-#Toggle Sprint
+# Toggle Sprint
 A PocketMine 4 plugin that allow you to sprint automactly
+
  Commands:
   /sprint (To active or deactive the toggle)
   
